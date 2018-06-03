@@ -48,15 +48,6 @@ we can reuse our last argument `dog` and print to the terminal
 
 `ctrl-y` pastes the text
 
-
-Jacobs  
-Official  
-Informational
-Notes on
-Technology  
-
-
-
 ###### References
 https://www.youtube.com/watch?v=V8EUdia_kOE  
 https://www.youtube.com/watch?v=C-AQAJXdoS8
