@@ -1,2 +1,1 @@
-# joint
-Collect of cheatsheets
+Jacobs Official Informational Notes on Technology
